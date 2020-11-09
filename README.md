@@ -5,12 +5,14 @@ We will creating an HTML webpage for Dana, using the UFO dataset she has provide
 Upon opening the UFO Sighting’s website, you will be met with a homepage that displays multiple elements. Firstly, you will encounter a tittle (“The Truth is Out There”) which encapsulates the subject of the webpage. Below this you will find a short summary describing the purpose of the website, what it hopes to uncover, and discussion of the data analysis that is featured in the data table below it. There are two components concerning the data table featured at the bottom of the webpage. On the bottom left hand side, you will observe a “Filter Search” subtitle and just below it an input panel where the data can be filtered, and to the right of the panel you will see the data table. The table includes data from a variety of logged UFO sightings which are grouped according to date observed, which city, state, and country they were observed in, what shape they appeared as, any further comments regarding the sighting. 
 
 ### Navigate the Filter 
-In order to navigate through these filters and select the specific data you desire you will first need to click on the input box located below the input statements (“Enter a …”). 
+In order to navigate through these filters and select the specific data you desire you will first need to click on the input box located below the input statements (“Enter a (…)”). 
 
 ![step_1:](./Resources/step_1.png)
 
 Following this step you will be required to enter the text of the exact data you would like to select; for example, in the enter a city input box you would type “ Benton” if you would like to see only the data from that exact city. Additionally, the filter panel allows you to apply one or multiple filters at a time by following the second step using multiple input boxes. 
+
 ![step_2:](./Resources/step_2.png)
+
 
 After the filter input has been entered, press the ENTER key on your keyboard and the table will be filtered to return your inputted specifications. 
 
