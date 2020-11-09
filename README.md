@@ -6,6 +6,7 @@ Upon opening the UFO Sighting’s website, you will be met with a homepage that 
 
 ### Navigate the Filter 
 In order to navigate through these filters and select the specific data you desire you will first need to click on the input box located below the input statements (“Enter a …”). 
+
 ![step_1:](./Resources/step_1.png)
 
 Following this step you will be required to enter the text of the exact data you would like to select; for example, in the enter a city input box you would type “ Benton” if you would like to see only the data from that exact city. Additionally, the filter panel allows you to apply one or multiple filters at a time by following the second step using multiple input boxes. 
